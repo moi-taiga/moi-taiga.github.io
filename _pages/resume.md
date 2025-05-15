@@ -6,7 +6,8 @@ permalink: /resume/
 
 ## About Me
 ---
-**Brief introduction about yourself.**
+I am an **Outdoor Instructor** and **Bioinformatician** with a passion for teaching and exploring the intersection of nature and science.  
+For more details about my **professional experience**, **skills**, and **education**, please navigate to the relevant sections below.
 
 ---
 
